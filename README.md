@@ -1,4 +1,4 @@
-# Olá, eu sou o Heitor! 👋
+# Olá, eu sou o Heitor! 
 
 Sou estudante de **Ciência da Computação** (atualmente no 4º período) e desenvolvedor em formação. Tenho background técnico pelo SENAI e um perfil curioso: gosto tanto de entender o que acontece no nível de hardware e memória quanto de ver as coisas tomando forma na tela em uma interface web.
 
